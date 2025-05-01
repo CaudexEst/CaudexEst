@@ -1,5 +1,6 @@
 ## Hi there 👋
-<h1>I'm Ben! Aspiring game developer, specifically in Systems Design or Game Design. <br/><a href="https://ben-jenkins.itch.io/">Itch.io</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>I'm Ben! Aspiring game developer, specifically in Systems Design or Game Design. 
+<h2><br/><a href="https://ben-jenkins.itch.io/">Itch.io</a>, <a href="https://www.linkedin.com/in/ben-jenkins-032289206/">LinkedIn</a>, <a href="https://www.youtube.com/@BenJenkins-td6mh">YouTube Tutorials</a></h1>
 
 <h2>👨‍💻 Game Development Projects:</h2>
 

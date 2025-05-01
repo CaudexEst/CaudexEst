@@ -1,5 +1,10 @@
 ## Hi there 👋
+<h1>I'm Ben! Aspiring game developer, specifically in Systems Design or Game Design. <br/><a href="https://ben-jenkins.itch.io/">Itch.io</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
+<h2>👨‍💻 Game Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Inventory System with Scriptable Objects](https://github.com/CaudexEst/sOBJInventory)
 <!--
 **CaudexEst/CaudexEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

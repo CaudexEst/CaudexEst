@@ -2,6 +2,9 @@
 <h1>I'm Ben! Aspiring game developer, specifically in Systems Design or Game Design. 
 <h2><br/><a href="https://ben-jenkins.itch.io/">Itch.io</a>, <a href="https://www.linkedin.com/in/ben-jenkins-032289206/">LinkedIn</a>, <a href="https://www.youtube.com/@BenJenkins-td6mh">YouTube Tutorials</a></h1>
 
+Resume: [Resume-Ben-Jenkins-Jan2026.pdf](https://github.com/user-attachments/files/24833057/Resume-Ben-Jenkins-Jan2026.pdf)
+
+
 <h2>👨‍💻 Game Development Projects:</h2>
 
 - <b>Unity Demos</b>
